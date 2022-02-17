@@ -1,0 +1,14 @@
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\repository\impl\BookRepositoryImpl.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\entity\Book.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\repository\AuthorRepository.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\target\generated-sources\java\com\javatechie\querydsl\entity\QAuthor.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\repository\BookRepository.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\repository\impl\BaseRepositoryImpl.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\service\AuthBookService.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\entity\Author.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\dto\AuthorStatistic.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\SpringDataJpaQuerydslApplication.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\repository\impl\AuthorRepositoryImpl.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\controller\AuthBookController.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\src\main\java\com\javatechie\querydsl\repository\BaseRepository.java
+D:\QueryDSLSample\spring-data-jpa-querydsl-main\spring-data-jpa-querydsl-main\target\generated-sources\java\com\javatechie\querydsl\entity\QBook.java
