@@ -40,7 +40,6 @@ public class AuthBookController {
     
     @GetMapping("/name")
     public Optional<Author> findAuthorByName(@RequestParam("name") String name) {
-    	System.out.println(name);
         return authBookService.findAuthorByName(name);
     }
 
